@@ -1,0 +1,10 @@
+1952,Emil Zatopek,8584
+1956,Alain Mimoun,8700
+1960,Abebe Bikila,8116
+1964,Abebe Bikila,7932
+1968,Mamo Wolde,8427
+1972,Frank Shorter,7940
+1976,Waldemar Cierpinski,7795
+1980,Waldemar Cierpinski,7863
+1984,Carlos Lopes,7761
+1988,Gelindo Bordin,7832
